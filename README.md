@@ -1,2 +1,2 @@
 # ShapeArea
-Упражнение для MindBox
+Тестовое задание для MindBox
