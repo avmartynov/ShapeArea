@@ -1,0 +1,2 @@
+# ShapeArea
+Упражнение для MindBox
