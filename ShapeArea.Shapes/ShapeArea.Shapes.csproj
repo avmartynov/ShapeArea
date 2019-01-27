@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Tech.ShapeArea.Shapes</AssemblyName>
+    <RootNamespace>Tech.ShapeArea.Shapes</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShapeArea\ShapeArea.csproj" />
+  </ItemGroup>
+
+</Project>
